@@ -1,0 +1,562 @@
+Initialize engine version: 4.2.2f1 (54f0fc09defb)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1099]
+    Renderer: AMD Radeon(TM) HD 6520G
+    Vendor:   ATI
+    VRAM:     1504 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.49_PC_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.49_PC_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.49_PC_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.49_PC_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.49_PC_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.49_PC_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.49_PC_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.49_PC_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.576 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.631619 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 162.
+Total: 1.114493 ms (FindLiveObjects: 0.029309 ms CreateObjectMapping: 0.028576 ms MarkObjects: 0.227881 ms  DeleteObjects: 0.008060 ms)
+
+SPHERE LOADED
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+RESOURCES STARTING
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+RESOURCES LOADED
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+CREATING MAP
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+END SETUP
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.49_PC_Data\Managed\Boo.Lang.dll (this message is harmless)
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+UnloadTime: 2.454669 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 155.
+Total: 1.126216 ms (FindLiveObjects: 0.014654 ms CreateObjectMapping: 0.022714 ms MarkObjects: 0.234475 ms  DeleteObjects: 0.024913 ms)
+
+SPHERE LOADED
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+RESOURCES STARTING
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+RESOURCES LOADED
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+CREATING MAP
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+END SETUP
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+UnloadTime: 3.030600 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 155.
+Total: 1.132078 ms (FindLiveObjects: 0.014654 ms CreateObjectMapping: 0.022714 ms MarkObjects: 0.244734 ms  DeleteObjects: 0.027844 ms)
+
+SPHERE LOADED
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+RESOURCES STARTING
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+RESOURCES LOADED
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+CREATING MAP
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+END SETUP
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit Super!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit Super!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Hit!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Entered!
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+We have entered da sev
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.49_PC_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.49_PC_Data\Managed\System.dll (this message is harmless)
+File written.
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+﻿<?xml version="1.0" encoding="utf-8"?><UserData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><player><score>180</score></player></UserData>
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+we have exited da sev
+ 
+(Filename: C:/BuildAgent/work/ea95e74f6e5f192d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 54)
+
+UnloadTime: 2.788797 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 135.
+Total: 1.288884 ms (FindLiveObjects: 0.013922 ms CreateObjectMapping: 0.022714 ms MarkObjects: 0.404470 ms  DeleteObjects: 0.060817 ms)
+
+UnloadTime: 0.475546 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 131.
+Total: 1.225136 ms (FindLiveObjects: 0.013922 ms CreateObjectMapping: 0.024913 ms MarkObjects: 0.418392 ms  DeleteObjects: 0.006594 ms)
+
+UnloadTime: 0.444771 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 136.
+Total: 1.206817 ms (FindLiveObjects: 0.013922 ms CreateObjectMapping: 0.021982 ms MarkObjects: 0.412530 ms  DeleteObjects: 0.005861 ms)
+
+UnloadTime: 0.470417 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 134.
+Total: 1.222205 ms (FindLiveObjects: 0.013922 ms CreateObjectMapping: 0.021982 ms MarkObjects: 0.423522 ms  DeleteObjects: 0.005861 ms)
+

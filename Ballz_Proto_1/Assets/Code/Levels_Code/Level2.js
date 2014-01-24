@@ -1,0 +1,128 @@
+#pragma strict
+var startFlag = 0;
+//Speed of Player
+var speed = 2;
+var onMenu = 1;
+var shader;
+var mat;
+
+
+function Update () {
+//Checks to see if the game board is created
+if(startFlag == 0){
+//Flag. Has this run before? 1 = yes, 0 = no.
+startFlag = 1;
+// This part of the code needs to change for when we select maps. 
+setUp();
+		//iPhoneSettings.screenOrientation = iPhoneScreenOrientation.LandscapeRight;
+	 	//AndroidTargetDevice.screenOrientation.LandscapeRight;	
+}
+//Gameplay starts here
+}
+
+	function setUp() {
+	//***Player sphere created***
+	var player = GameObject.CreatePrimitive(PrimitiveType.Sphere);
+		player.transform.position = Vector3(2.977,2.492,3.0274);
+		player.name = "player";
+		
+		//Player sphere given properties
+		player.AddComponent(Rigidbody);
+		player.AddComponent("PlayerMove");
+		player.AddComponent("Touch");
+		
+		//Searches for a shader and assigns it to a variable
+		shader = Shader.Find("Toony-Basic");
+	
+		//player.AddComponent(SphereCollider);
+		player.collider.material.dynamicFriction = .5;
+		player.collider.material.staticFriction = 0;
+		player.collider.material.bounciness = .95;
+		player.collider.material.frictionCombine = PhysicMaterialCombine.Minimum;
+		player.collider.material.bounceCombine = PhysicMaterialCombine.Maximum;
+		player.collider.material.dynamicFriction2 = 0;
+		player.collider.material.staticFriction2 = 0;
+		//The comment below adds a shader to the ball. Currently it is only purple for unkown reasons.
+		//player.renderer.material.shader = shader;
+		player.rigidbody.angularDrag = 20.0;
+		player.rigidbody.freezeRotation = true;
+		//player.rigidbody.drag = 1.0;
+	
+	Debug.Log("SPHERE LOADED");
+	//For loop variables
+	var i = 0;
+	var y = 0;
+	
+	//Creation of GameObject and tiles
+	Debug.Log("RESOURCES STARTING");
+	var superTile : GameObject = Resources.Load("superTile");
+	//This code sets the variable equal to the actual object. 
+	// I do not know how the regular tile is being instantiated... but its working.
+	superTile = GameObject.Find("superTile");
+	var tile : GameObject = Resources.Load("flat_tile");
+
+	
+	// scales the tiles to correct sizes
+	superTile.transform.localScale = Vector3(0.49,0.65,0.49);
+	tile.transform.localScale = Vector3(0.49,0.65,0.49);
+	
+	//tile.transform.localRotation = Quaternion.AngleAxis(-90, Vector3(1,0,0));
+	
+	//Clones created for objects
+	var superClone : GameObject;
+	var clone : GameObject;
+	
+	Debug.Log("RESOURCES LOADED");
+	//Destroys our "Model" tile, so it does not linger around after map setup. Not needed since build 0.15 (perhaps earlier)
+	//Destroy(tile);
+	
+	//**** JUNGLE LEVEL 2 MAP ****, 
+	/*
+		This map is a pyramid with its highest point in the center.
+		Each row inward gets an extra tile upwards.
+	*/
+			
+			Debug.Log("CREATING MAP");
+			for(i = 0; i < 7; i++){
+				for(y = 0; y < 7; y++){
+				if((i == 2 || i ==3) && (y >= 2 && y <= 3)){
+					superClone = Instantiate(superTile,Vector3(i,0,y), Quaternion.identity);
+					superClone.AddComponent(MeshCollider);
+   					superClone.transform.localRotation = Quaternion.AngleAxis(0, Vector3(1,0,0));
+				}else{
+					clone = Instantiate(tile,Vector3(i,0,y), Quaternion.identity);
+					clone.AddComponent(MeshCollider);
+   					clone.transform.localRotation = Quaternion.AngleAxis(0, Vector3(1,0,0));
+				}
+					//Randomize Tile Color
+				//	clone.renderer.material.color = new Color(Random.Range(1.0,4.0), Random.Range(5.0,10.0), Random.Range(2.0,5.0));
+					
+					}
+			}
+			
+			for(i = 1; i < 6; i++){
+				for(y = 1; y < 6; y++){
+					clone = Instantiate(tile,Vector3(i,0.1,y), Quaternion.identity);
+					clone.AddComponent(MeshCollider);
+   					clone.transform.localRotation = Quaternion.AngleAxis(0, Vector3(1,0,0));
+				}	
+			}
+			
+			for(i = 2; i < 5; i++){
+				for(y = 2; y < 5; y++){
+					clone = Instantiate(tile,Vector3(i,0.2,y), Quaternion.identity);
+					clone.AddComponent(MeshCollider);
+   					clone.transform.localRotation = Quaternion.AngleAxis(0, Vector3(1,0,0));
+				}	
+			}
+			
+			for(i = 3; i < 4; i++){
+				for(y = 3; y < 4; y++){
+					clone = Instantiate(tile,Vector3(i,0.3,y), Quaternion.identity);
+					clone.AddComponent(MeshCollider);
+   					clone.transform.localRotation = Quaternion.AngleAxis(0, Vector3(1,0,0));
+				}	
+			}
+			
+			Debug.Log("END SETUP");
+		}

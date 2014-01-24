@@ -1,0 +1,290 @@
+Initialize engine version: 4.2.1f4 (4d30acc925c2)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1099]
+    Renderer: AMD Radeon(TM) HD 6520G
+    Vendor:   ATI
+    VRAM:     1504 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.127 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Profiler is only supported with Pro License
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Profiler/ProfilerConnection.cpp Line: 209)
+
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11_Data\Managed\System.Core.dll (this message is harmless)
+Entered!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:11)
+ 
+(Filename: C Line: 0)
+
+Hit!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:14)
+ 
+(Filename: C Line: 0)
+
+Entered!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:11)
+ 
+(Filename: C Line: 0)
+
+Hit!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:14)
+ 
+(Filename: C Line: 0)
+
+Entered!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:11)
+ 
+(Filename: C Line: 0)
+
+Hit!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:14)
+ 
+(Filename: C Line: 0)
+
+Entered!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:11)
+ 
+(Filename: C Line: 0)
+
+Hit!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:14)
+ 
+(Filename: C Line: 0)
+
+Entered!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:11)
+ 
+(Filename: C Line: 0)
+
+Hit!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:14)
+ 
+(Filename: C Line: 0)
+
+Entered!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:11)
+ 
+(Filename: C Line: 0)
+
+Hit!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:14)
+ 
+(Filename: C Line: 0)
+
+Entered!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:11)
+ 
+(Filename: C Line: 0)
+
+Hit!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:14)
+ 
+(Filename: C Line: 0)
+
+Entered!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:11)
+ 
+(Filename: C Line: 0)
+
+Hit!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:14)
+ 
+(Filename: C Line: 0)
+
+Entered!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:11)
+ 
+(Filename: C Line: 0)
+
+Hit!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:14)
+ 
+(Filename: C Line: 0)
+
+Entered!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:11)
+ 
+(Filename: C Line: 0)
+
+Hit!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:14)
+ 
+(Filename: C Line: 0)
+
+Entered!
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Touch:OnCollisionExit(Collision) (at C:\Users\Killerham\Documents\Ballz_Proto_1\Assets\Code\Touch.js:11)
+ 
+(Filename: C Line: 0)
+
+UnloadTime: 2.105886 ms
+System memory in use before: 2.1 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 2.0 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 142.
+Total: 3.095814 ms (FindLiveObjects: 0.017585 ms CreateObjectMapping: 0.052024 ms MarkObjects: 0.362704 ms  DeleteObjects: 0.082066 ms)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\Killerham\Documents\Ballz_Proto_1;C:\Users\Killerham\Documents\Ballz_Proto_1;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Killerham'
+OS-Version: 6.1.7601 (Service Pack 1) 0x300-0x1
+C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11.exe:Build_0.11.exe (00290000), size: 12226560 (result: 0), SymType: 'PDB', PDB: 'C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11.exe', fileVersion: 4.2.1.11687
+C:\Windows\SysWOW64\ntdll.dll:ntdll.dll (77140000), size: 1572864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\ntdll.dll', fileVersion: 6.1.7601.18229
+C:\Windows\syswow64\kernel32.dll:kernel32.dll (74D70000), size: 1114112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\kernel32.dll', fileVersion: 6.1.7601.18229
+C:\Windows\syswow64\KERNELBASE.dll:KERNELBASE.dll (761A0000), size: 290816 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\KERNELBASE.dll', fileVersion: 6.1.7601.18229
+C:\Windows\syswow64\USER32.dll:USER32.dll (76280000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USER32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\GDI32.dll:GDI32.dll (74C00000), size: 589824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\GDI32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\LPK.dll:LPK.dll (75250000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\LPK.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\USP10.dll:USP10.dll (752A0000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USP10.dll', fileVersion: 1.626.7601.18009
+C:\Windows\syswow64\msvcrt.dll:msvcrt.dll (768F0000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\msvcrt.dll', fileVersion: 7.0.7601.17744
+C:\Windows\syswow64\ADVAPI32.dll:ADVAPI32.dll (76B00000), size: 655360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ADVAPI32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\SysWOW64\sechost.dll:sechost.dll (76390000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\sechost.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\RPCRT4.dll:RPCRT4.dll (75340000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\RPCRT4.dll', fileVersion: 6.1.7601.18205
+C:\Windows\syswow64\SspiCli.dll:SspiCli.dll (74B90000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SspiCli.dll', fileVersion: 6.1.7601.17940
+C:\Windows\syswow64\CRYPTBASE.dll:CRYPTBASE.dll (74B80000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPTBASE.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\VERSION.dll:VERSION.dll (731D0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\VERSION.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\ole32.dll:ole32.dll (769A0000), size: 1425408 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ole32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\SHLWAPI.dll:SHLWAPI.dll (75450000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SHLWAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\PSAPI.DLL:PSAPI.DLL (76220000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\PSAPI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\SHELL32.dll:SHELL32.dll (754C0000), size: 12886016 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SHELL32.dll', fileVersion: 6.1.7601.18222
+C:\Windows\system32\OPENGL32.dll:OPENGL32.dll (65950000), size: 819200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\OPENGL32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\GLU32.dll:GLU32.dll (68A90000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\GLU32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DDRAW.dll:DDRAW.dll (65860000), size: 946176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DDRAW.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DCIMAN32.dll:DCIMAN32.dll (68AE0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DCIMAN32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\SETUPAPI.dll:SETUPAPI.dll (76BA0000), size: 1691648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SETUPAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\CFGMGR32.dll:CFGMGR32.dll (75260000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CFGMGR32.dll', fileVersion: 6.1.7601.17621
+C:\Windows\syswow64\OLEAUT32.dll:OLEAUT32.dll (76110000), size: 585728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\OLEAUT32.dll', fileVersion: 6.1.7601.17676
+C:\Windows\syswow64\DEVOBJ.dll:DEVOBJ.dll (75430000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\DEVOBJ.dll', fileVersion: 6.1.7601.17621
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (72210000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WINMM.dll:WINMM.dll (722B0000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINMM.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\WS2_32.dll:WS2_32.dll (76240000), size: 217088 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WS2_32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\NSI.dll:NSI.dll (76230000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\NSI.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\IMM32.dll:IMM32.dll (765B0000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\IMM32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\MSCTF.dll:MSCTF.dll (74E80000), size: 835584 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSCTF.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DNSAPI.dll:DNSAPI.dll (6F1B0000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DNSAPI.dll', fileVersion: 6.1.7601.17570
+C:\Windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (728F0000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\IPHLPAPI.DLL', fileVersion: 6.1.7601.17514
+C:\Windows\system32\WINNSI.DLL:WINNSI.DLL (728E0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINNSI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WINHTTP.dll:WINHTTP.dll (72500000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINHTTP.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\webio.dll:webio.dll (724B0000), size: 323584 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\webio.dll', fileVersion: 6.1.7601.17725
+C:\Windows\system32\HID.DLL:HID.DLL (70CE0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\HID.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSACM32.dll:MSACM32.dll (73BC0000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSACM32.dll', fileVersion: 6.1.7600.16385
+C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11_Data\Mono\mono.dll:mono.dll (10000000), size: 2285568 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Killerham\Documents\Ballz_Proto_1\Build_0.11_Data\Mono\mono.dll'
+C:\Windows\system32\MSWSOCK.dll:MSWSOCK.dll (72720000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSWSOCK.dll', fileVersion: 6.1.7601.17514
+C:\Windows\System32\wshtcpip.dll:wshtcpip.dll (71360000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\wshtcpip.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (712D0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dhcpcsvc6.DLL', fileVersion: 6.1.7601.17970
+C:\Windows\system32\dhcpcsvc.DLL:dhcpcsvc.DLL (712B0000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dhcpcsvc.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\NLAapi.dll:NLAapi.dll (714B0000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\NLAapi.dll', fileVersion: 6.1.7601.17761
+C:\Windows\system32\napinsp.dll:napinsp.dll (698C0000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\napinsp.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\pnrpnsp.dll:pnrpnsp.dll (68D10000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\pnrpnsp.dll', fileVersion: 6.1.7600.16385
+C:\Windows\System32\winrnr.dll:winrnr.dll (68D00000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\winrnr.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\wshbth.dll:wshbth.dll (688E0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wshbth.dll', fileVersion: 6.1.7601.17514
+C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live\WLIDNSP.DLL:WLIDNSP.DLL (6F180000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live\WLIDNSP.DLL', fileVersion: 7.250.4225.0
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (72230000), size: 524288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\d3d9.dll:d3d9.dll (6B930000), size: 1847296 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\d3d9.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\d3d8thk.dll:d3d8thk.dll (73BE0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\d3d8thk.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\aticfx32.dll:aticfx32.dll (73470000), size: 757760 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\aticfx32.dll', fileVersion: 8.17.10.1099
+C:\Windows\system32\atiu9pag.dll:atiu9pag.dll (73460000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\atiu9pag.dll', fileVersion: 8.14.1.6233
+C:\Windows\system32\atiumdag.dll:atiumdag.dll (6B470000), size: 4321280 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\atiumdag.dll', fileVersion: 7.14.10.867
+C:\Windows\system32\atiumdva.dll:atiumdva.dll (6B060000), size: 4210688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\atiumdva.dll', fileVersion: 8.14.10.330
+C:\Windows\syswow64\WINTRUST.dll:WINTRUST.dll (76580000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WINTRUST.dll', fileVersion: 6.1.7601.18205
+C:\Windows\syswow64\CRYPT32.dll:CRYPT32.dll (75090000), size: 1179648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPT32.dll', fileVersion: 6.1.7601.18205
+C:\Windows\syswow64\MSASN1.dll:MSASN1.dll (75080000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSASN1.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\MMDevAPI.DLL:MMDevAPI.DLL (721D0000), size: 233472 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MMDevAPI.DLL', fileVersion: 6.1.7601.17514
+C:\Windows\system32\PROPSYS.dll:PROPSYS.dll (720D0000), size: 1003520 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\PROPSYS.dll', fileVersion: 7.0.7601.17514
+C:\Windows\system32\wdmaud.drv:wdmaud.drv (73C70000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wdmaud.drv', fileVersion: 6.1.7601.17514
+C:\Windows\system32\ksuser.dll:ksuser.dll (73C60000), size: 16384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\ksuser.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\AVRT.dll:AVRT.dll (741C0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\AVRT.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\AUDIOSES.DLL:AUDIOSES.DLL (71E10000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\AUDIOSES.DLL', fileVersion: 6.1.7601.17514
+C:\Windows\system32\msacm32.drv:msacm32.drv (73C50000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\msacm32.drv', fileVersion: 6.1.7600.16385
+C:\Windows\system32\midimap.dll:midimap.dll (73BF0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\midimap.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dsound.dll:dsound.dll (693D0000), size: 466944 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dsound.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\POWRPROF.dll:POWRPROF.dll (741F0000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\POWRPROF.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\CLBCatQ.DLL:CLBCatQ.DLL (76660000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CLBCatQ.DLL', fileVersion: 2001.12.8530.16385
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll:comctl32.dll (71600000), size: 1695744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll', fileVersion: 6.10.7601.17514
+C:\Windows\system32\xinput1_3.dll:xinput1_3.dll (04920000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\Windows\system32\dbghelp.dll:dbghelp.dll (72E50000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
+
+========== OUTPUTING STACK TRACE ==================
+
+(0x005C4E18) c:\buildagent\work\cac08d8a5e25d4cb\runtime\exportgenerated\standaloneplayer\baseclass.cpp (1935 + 0x0): Resources_CUSTOM_Load + 0xf8
+(0x056D6510) (Mono JIT code): (filename not available):  (wrapper managed-to-native) UnityEngine.Resources:Load (string,System.Type) + 0x40 (056D64D0 056D6550) [02CE6E70 - Unity Root Domain] + 0x0
+(0x056D64A2) (Mono JIT code): (filename not available):  UnityEngine.Resources:Load (string) + 0x2a (056D6478 056D64BF) [02CE6E70 - Unity Root Domain] + 0x0
+(0x056D5BBF) (Mono JIT code): (filename not available):  Instantiation:setUp () + 0xa7 (056D5B18 056D63E7) [02CE6E70 - Unity Root Domain] + 0x0
+(0x056D5713) (Mono JIT code): (filename not available):  Instantiation:Update () + 0x63 (056D56B0 056D5A64) [02CE6E70 - Unity Root Domain] + 0x0
+(0x056CACCF) (Mono JIT code): (filename not available):  (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr) + 0x8f (056CAC40 056CAD9A) [02CE6E70 - Unity Root Domain] + 0x0
+(0x100EFCF6) (mono): (filename not available): mono_set_defaults + 0x22bf
+(0x1005D603) (mono): (filename not available): mono_runtime_invoke + 0x51
+(0x004DDC18) c:\buildagent\work\cac08d8a5e25d4cb\runtime\scripting\backend\mono\scriptingbackendapi_mono.cpp (176 + 0x1a): scripting_method_invoke + 0x38
+(0x004DD8E8) c:\buildagent\work\cac08d8a5e25d4cb\runtime\scripting\backend\scriptinginvocationnoargs.cpp (94 + 0x15): ScriptingInvocationNoArgs::Invoke + 0x48
+(0x004DD6B5) c:\buildagent\work\cac08d8a5e25d4cb\runtime\scripting\backend\scriptinginvocationnoargs.cpp (79 + 0x0): ScriptingInvocationNoArgs::Invoke + 0x15
+(0x004D1B48) c:\buildagent\work\cac08d8a5e25d4cb\runtime\mono\monobehaviour.cpp (533 + 0xe): MonoBehaviour::CallMethodIfAvailable + 0x58
+(0x004D1BB1) c:\buildagent\work\cac08d8a5e25d4cb\runtime\mono\monobehaviour.cpp (615 + 0xb): MonoBehaviour::CallUpdateMethod + 0x61
+(0x004D1BC7) c:\buildagent\work\cac08d8a5e25d4cb\runtime\mono\monobehaviour.cpp (621 + 0x0): MonoBehaviour::Update + 0x7
+(0x004A409A) c:\buildagent\work\cac08d8a5e25d4cb\runtime\misc\player.cpp (1854 + 0x0): PlayerLoop + 0x4da
+(0x0054C6C1) c:\buildagent\work\cac08d8a5e25d4cb\platformdependent\winplayer\winmain.cpp (457 + 0xe2): MainMessageLoop + 0x181
+(0x0054DFFA) c:\buildagent\work\cac08d8a5e25d4cb\platformdependent\winplayer\winmain.cpp (863 + 0x0): PlayerWinMain + 0x99a
+(0x006C0C58) c:\buildagent\work\cac08d8a5e25d4cb\platformdependent\winplayer\shimmain.cpp (6 + 0x15): WinMain + 0x18
+(0x006F2CD0) f:\dd\vctools\crt_bld\self_x86\crt\src\crt0.c (275 + 0x1c): __tmainCRTStartup + 0x11a
+(0x74D8336A) (kernel32): (filename not available): BaseThreadInitThunk + 0x12
+(0x77179F72) (ntdll): (filename not available): RtlInitializeExceptionChain + 0x63
+(0x77179F45) (ntdll): (filename not available): RtlInitializeExceptionChain + 0x36
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
